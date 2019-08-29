@@ -1,4 +1,4 @@
-#The Scoop Newsletter- Coding, Testing, Scheduling
+# The Scoop Newsletter- Coding, Testing, Scheduling
 
 Save/Download newsletter draft from previous week
 Go through and delete expired events, jobs, announcements, etc. If an event takes place the same day the scoop newsletter goes out for that week, 
